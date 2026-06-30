@@ -127,3 +127,4 @@ Game window includes:
 **Ashish Kumar Prajapati**
 
 ---
+<img width="1536" height="1024" alt="Car_dodging_game" src="https://github.com/user-attachments/assets/7f51ded8-554e-43cd-bd9e-dd20905d05a2" />
